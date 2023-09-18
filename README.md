@@ -1,10 +1,8 @@
 ## Welcome! I am Hossam Elqersh 🦈
 I'm a cybersecurity associate that appreciates taking on challenges and learning new things, I love to know how systems work under the hood.
 - 🔭 I’m currently working on my Master's degree in Cybersecurity at the University of Ottawa's Faculty of Engineering Department of Electrical Engineering.
-<a href="https://www.uottawa.ca/en" rel="home" class="nav__logo">
-      <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo.svg" class="nav__logo--dark" alt="University of Ottawa">
-      <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo--white.svg" class="nav__logo--light" alt="University of Ottawa">
-    </a>
+<a href="https://www.uottawa.ca/en">
+      <img width="80px" src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo--white.svg" class="nav__logo--light" alt="University of Ottawa"> </a>
 - 🌱 I’m currently learning Reverse engineering
 ### Skills 🤹🏻
 #### - Languages 
