@@ -4,7 +4,7 @@ I'm a cybersecurity associate that appreciates taking on challenges and learning
 - 🌱 I’m currently learning Reverse engineering
 ### Skills 🤹🏻
 #### - Languages 
-<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="margin: 2px 2px 2px 2px;"/>
+<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="margin: 0px 2px 2px 2px;"/>
 <img align="left" alt="CPP" width="40px" src="https://camo.githubusercontent.com/99a16669d62a8eb5383003846946cce0b7bd335bd39cf7e45310aff1072df51d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f38303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" style="margin: 7px 2px 2px 2px;" />
 <img align="left" alt="C" width="50px" src="https://camo.githubusercontent.com/16427ad53f405bcc2553b69414cf120c3abdbb02bc133ed890b8f5ce8b1d9634/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6c65747465725f632f6c65747465725f635f504e4732322e706e67" style="margin: 6px 2px 2px 2px; <br>">
 <br><br>
@@ -12,7 +12,6 @@ I'm a cybersecurity associate that appreciates taking on challenges and learning
 #### - Tools
 <img align="left" alt="Git" width="70px" src="https://camo.githubusercontent.com/3a3902bec2e20083a8a0f2d6c2e803e830e386eff5aeb8b8cdfb439ad43b364e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65302f4769742d6c6f676f2e7376672f35313270782d4769742d6c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" style="margin: 7px 12px 2px 2px;" >
 <img align="left" alt="Flask" width="90px" src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png"style="margin: 7px 12px 2px 2px;" >
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"style="margin: 7px 2px 2px 2px;" >
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"style="margin: 7px 2px 2px 2px;" >
 <img align="left" alt="Terminal" width="35px" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4"style="margin: 7px 2px 2px 2px;" >
 
@@ -20,7 +19,15 @@ I'm a cybersecurity associate that appreciates taking on challenges and learning
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hossamelqersh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hossamelqersh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelqersh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=hossamelqersh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
