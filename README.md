@@ -14,21 +14,25 @@ I'm a cybersecurity associate that appreciates taking on challenges and learning
 <img align="left" alt="Flask" width="90px" src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png"style="margin: 7px 12px 2px 2px;" >
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"style="margin: 7px 2px 2px 2px;" >
 <img align="left" alt="Terminal" width="35px" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4"style="margin: 7px 2px 2px 2px;" >
+<br>
 
 
 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elqersh/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/HossamElQersh)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hossamelqersh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hossamelqersh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelqersh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hossamelqersh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hossamelqersh&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelqersh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hossamelqersh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[//]: # ([![]&#40;https://visitcount.itsvg.in/api?id=hossamelqersh&icon=0&color=0&#41;]&#40;https://visitcount.itsvg.in&#41;)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
