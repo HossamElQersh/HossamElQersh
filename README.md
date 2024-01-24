@@ -22,7 +22,7 @@ Completed my Master's degree in Cybersecurity at the University of Ottawa's Facu
 <img align="left" alt="Flask" width="90px" src="https://camo.githubusercontent.com/de54ffbef2c6d880ea66ce4b89cbbf21385b4f0c9318907a4f51110272aa9925/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" style="margin: 7px 12px 2px 2px;" >
 
 
-<br><br><br><br>
+<br><br>
 #### - Tools
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=48" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" style="margin: 7px 12px 2px 2px;" >
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"style="margin: 7px 2px 2px 2px;" >
